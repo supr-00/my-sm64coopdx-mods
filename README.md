@@ -5,5 +5,4 @@ sm64coopdx mods i made idk
 * Beta-Style Mario & Luigi
 
 # upcoming mods
-* Sonic R Tails
-* supr's custom levels
+* none for now, i dont really care about sm64coopdx much anymore
